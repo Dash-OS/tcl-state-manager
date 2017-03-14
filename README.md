@@ -1,8 +1,8 @@
 # Tcl State Manager (TSM)
 
-**Note:** Currently setup to work in the Tcl Package Manager we have not yet released 
-so this likely will not work quite yet without some changes.  This is just an initial
-commit.
+> **Note:** Currently setup to work in the Tcl Package Manager we have not yet released 
+> so this likely will not work quite yet without some changes.  This is just an initial
+> commit.
 
 Managing the state of our applications can often prove to be a task which gets
 more and more unorganized and messy as our applications grow and evolve.  As 
